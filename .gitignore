@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore all .csv 
 *.csv
+
+# Ignore all .geojson 
+*.geojson
